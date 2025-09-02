@@ -1,2 +1,3 @@
 new file waiting to be commited
 updated the data in other branch just to check how it will work if we build the jenkins with branch1 and updated the data in branch2 just to check if this works or not 
+in jenkins in the bracnh specifier wehre the branch is specified in the place of giving branch name if you specify */* it will work the webhoonks concept for every branch 
